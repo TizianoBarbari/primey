@@ -1,0 +1,2 @@
+# primey
+Prime numbers algorithms.
